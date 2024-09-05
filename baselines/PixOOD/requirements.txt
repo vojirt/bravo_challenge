@@ -1,0 +1,14 @@
+easydict==1.11
+einops==0.4.1
+matplotlib==3.5.2
+numpy==2.1.0
+opencv_python==4.6.0.66
+opencv_python_headless==4.10.0.84
+Pillow==10.4.0
+scikit_learn==1.1.2
+scipy==1.14.1
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.64.0
+webp==0.4.0
+yacs==0.1.8
